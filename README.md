@@ -1,3 +1,3 @@
-#Progetto di Programmazione Data Intensive
+# Progetto di Programmazione Data Intensive
 
 Lorenzo Bartolini
